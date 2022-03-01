@@ -1,6 +1,6 @@
 # 100DaysOfCode
-Full instructions about the challenge [here](https://github.com/jcllobet/100DaysOfCode/blob/main/Instructions_100DaysOfCode.MD)
-inspired by [george-studenko](https://github.com/george-studenko/100_Days_of_ML_Code) and [Anna Kondratenko](https://github.com/annkon22)
+Full instructions about the challenge [here](https://github.com/jcllobet/100DaysOfCode/blob/main/Instructions_100DaysOfCode.md).
+Inspired by [george-studenko](https://github.com/george-studenko/100_Days_of_ML_Code) and [Anna Kondratenko](https://github.com/annkon22)
 
 ## 100DaysOfCode Alphabetic Index
   
