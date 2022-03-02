@@ -19,7 +19,7 @@ To be Updated
 - [@Quicksort](https://stackoverflow.com/questions/54002042/recursive-sort-in-js)
 - [@Patrick Collison's website](https://patrickcollison.com/)
 
-## Day 1 : March 2nd , 2022
+## Day 1 : March 2nd, 2022
  
 **Today's Progress** :  
 - A lecture to refresh Conditionals and Datatypes in JS. Still not used to '===' comparisons. 
@@ -32,7 +32,7 @@ To be Updated
 **Link to work:** [jancarbonell.com](http://jancarbonell.com/) | [personal_website](https://github.com/jcllobet/personal_website) | [Strive Repo](https://github.com/jcllobet/FS_Strive_school)
 
 
-## Day 0 : March 1st , 2022
+## Day 0 : March 1st, 2022
  
 **Today's Progress** : I have joined [Strive School](https://strive.school) FullStack Course. As a Data Scientist, I have found myself lacking in the Software Engineering Department and felt like it was a good opportunity to go all in. Lecture was super fun and interactive. Homework was to create a personal website in HTML and CSS. It did not take me much to setup a basic minimalistic website inspired in [@Patrick Collison's website](https://patrickcollison.com/). Got carried away with Node.JS and Linode and went to upload it on a server. Followed a tutorial on setting it up with the right security permissions with actually sent me in a 3h detour -as I initially created everything directly in @root-. 
 
