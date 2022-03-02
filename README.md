@@ -1,6 +1,9 @@
 # 100DaysOfCode
-Full instructions about the challenge [here](https://github.com/jcllobet/100DaysOfCode/blob/main/Instructions_100DaysOfCode.md).
-Inspired by [george-studenko](https://github.com/george-studenko/100_Days_of_ML_Code) and [Anna Kondratenko](https://github.com/annkon22)
+inspired by [george-studenko](https://github.com/george-studenko/100_Days_of_ML_Code) and [Anna Kondratenko](https://github.com/annkon22)
+
+# 100 Days of Code
+
+100 Days of Code. Full instructions about the challenge [here](https://github.com/jcllobet/100DaysOfCode/blob/main/Instructions_100DaysOfCode.MD)
 
 ## 100DaysOfCode Alphabetic Index
   
@@ -14,12 +17,13 @@ To be Updated
 ### Consulted Resources 
 To be Updated
 
-## Day 0 : Sep 29 , 2018
+## Day 0 : March 1st , 2020
  
-**Today's Progress** : I have joined and attended [AI Saturdays](https://nurture.ai/ai-saturdays) in Barcelona today, I completed a couple of chapters on the Computer Vision Nanodegree I'm working on right now. I've been working on creating masks to do some image edition with CV2 (OpenCV). Learned about color spaces (RBG, HSI and HSL) and worked on a simple image classifier, creating a basic ML pipeline to load images, pre-process images and predict and image label.  
+**Today's Progress** : I have joined [Strive School](https://strive.school) FullStack Course. As a Data Scientist, I have found myself lacking in the Software Engineering Department and felt like it was a good opportunity to go all in. Lecture was super fun and interactive. Homework was to create a personal website in HTML and CSS. It did not take me much to setup a basic minimalistic website inspired in [Patrick Collison's](https://patrickcollison.com/). Got carried away with Node.JS and Linode and went to upload it on a server. Followed a tutorial on setting it up with the right security permissions with actually sent me in a 3h detour -as I initially created everything directly in @root-. 
 
-**Thoughts** : Getting to work and know people who is interested in AI, ML and DL is great to share knowledge and encourage each other, a great way to learn. Computer vision is a daunting part of AI, but with the right material, teachers and projects I think I will manage to pull it over, got time until the end of December 2018 to get it done.
+**Thoughts** : I really like the idea of comitting to code daily, specially if being able to do so in an environment with equally motivated people and mentors to
 
-**Link to course:** [Computer Vision Nanodegree](https://eu.udacity.com/course/computer-vision-nanodegree--nd891) you can find a [Free Preview here](https://www2.udacity.com/course/ud891-preview)
+**Link to course:** [Strive.school](https://strive.school/).
 
-**Link to work:** [Machine Learning Concepts](content/Machine-learning-concepts.md) | [Intro to Pandas Lab](code/Intro_to_pandas.ipynb)
+**Link to work:** [jancarbonell.com](http://jancarbonell.com/) | [personal_website](https://github.com/jcllobet/personal_website)
+
