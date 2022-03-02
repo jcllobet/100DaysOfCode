@@ -16,8 +16,8 @@ To be Updated
 [Strive.school](https://strive.school/).
 
 ### Useful Resources 
-[@Quicksort](https://stackoverflow.com/questions/54002042/recursive-sort-in-js)
-[@Patrick Collison's website](https://patrickcollison.com/)
+- [@Quicksort](https://stackoverflow.com/questions/54002042/recursive-sort-in-js)
+- [@Patrick Collison's website](https://patrickcollison.com/)
 
 ## Day 1 : March 2nd , 2022
  
