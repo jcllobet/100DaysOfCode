@@ -29,7 +29,7 @@ To be Updated
 
 **Thoughts** : Sometimes I hate getting stuck with small details / bugs but when I get through the bottleneck realize that those nuances actually matter.
 
-**Link to work:** [jancarbonell.com](http://jancarbonell.com/) | [personal_website](https://github.com/jcllobet/personal_website)
+**Link to work:** [jancarbonell.com](http://jancarbonell.com/) | [personal_website](https://github.com/jcllobet/personal_website) | [Strive Repo](https://github.com/jcllobet/FS_Strive_school)
 
 
 ## Day 0 : March 1st , 2022
