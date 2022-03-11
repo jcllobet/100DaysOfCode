@@ -19,7 +19,20 @@ To be Updated
 - [@Quicksort](https://stackoverflow.com/questions/54002042/recursive-sort-in-js)
 - [@Patrick Collison's website](https://patrickcollison.com/)
 
-## Day 2 and day 3: March 2nd, 2022
+## Day 5: March 11th, 2022
+- ✍🏻 Passed the Module 1 certification of @Strive_School
+- 🏎️ Aiming to optimize simple functions and cover the edge cases
+- 🎨 A Front / Back insight about myself.
+- 🧮 Really interesting discoveries on #DOM Manipulation and #JS Callbacks. 
+
+**More dtailed insights**: https://twitter.com/jcllobet/status/1502346457990549508?s=20&t=-vYLbFbqK-rU4-ihKBAsYw
+
+## Day 4: March 10th, 2022
+- 🕹 Playing with #DOM Manipulation
+- 🧮 Created a Bingo game that populates and runs itself with #JS
+- 🎨 Rediscovered by struggle with CSS Margins and Padding
+
+## Day 2 and day 3: March 3rd & 4th, 2022
  
 **Today's Progress** :  
 - A lecture to refresh Loops and functions in JS and the relevant exercises
